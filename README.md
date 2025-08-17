@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Shiba Sankar Sahu  
 
-<!--
-**imshibasankarsahu/imshibasankarsahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Data Scientist | ML Engineer | Generative AI Enthusiast**  
 
-Here are some ideas to get you started:
+💡 I love turning data into insights & building AI-powered apps. Skilled in **Python, SQL, ML/DL, AWS, and Generative AI** with hands-on projects in **RAG, NLP, and MLOps**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Skills  
+🔹 Python | SQL | TensorFlow | Keras | Scikit-learn  
+🔹 Data Viz: Power BI | Tableau | Matplotlib | Seaborn  
+🔹 MLOps: AWS | Docker | Kubernetes | GitHub Actions | DVC  
+🔹 Generative AI: LLMs | RAG | LangChain | HuggingFace 
